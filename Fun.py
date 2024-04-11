@@ -1,2 +1,2 @@
 def HelloWorld(value):
-    print(value)
+    return value

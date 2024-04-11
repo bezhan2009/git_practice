@@ -1,5 +1,5 @@
 from Fun import HelloWorld
 
-HelloWorld('print')
+print(HelloWorld('print'))
 
 # Just check
