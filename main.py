@@ -1,5 +1,3 @@
-def HelloWorld(value):
-    print(value)
-
+from Fun import HelloWorld
 
 HelloWorld('print')
