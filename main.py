@@ -1,3 +1,7 @@
-from Fun import HelloWorld
+from Fun import HelloWorld, summa
 
-HelloWorld('print')
+HelloWorld = HelloWorld('print')
+print(HelloWorld.HelloWorld())
+
+print(summa(5, 3))
+
