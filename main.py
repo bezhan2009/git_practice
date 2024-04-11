@@ -5,3 +5,4 @@ print(HelloWorld.HelloWorld())
 
 print(summa(5, 3))
 
+print(HelloWorld)
