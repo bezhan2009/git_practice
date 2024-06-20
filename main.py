@@ -1,5 +1,5 @@
-from Fun import HelloWorld, summa
-
-print(summa(5, 3))
+from Fun import HelloWorld
 
 print(HelloWorld('print'))
+
+# Just check
